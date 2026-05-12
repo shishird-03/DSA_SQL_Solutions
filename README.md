@@ -39,6 +39,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0204-count-primes](https://github.com/shishird-03/DSA_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shishird-03/DSA_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shishird-03/DSA_Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/shishird-03/DSA_Solutions/tree/master/0367-valid-perfect-square) |
