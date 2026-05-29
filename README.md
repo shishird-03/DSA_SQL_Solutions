@@ -21,6 +21,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/shishird-03/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/shishird-03/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -70,6 +71,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0344-reverse-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shishird-03/DSA_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -219,6 +221,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0229-majority-element-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/shishird-03/DSA_Solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -233,6 +236,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0136-single-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shishird-03/DSA_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
