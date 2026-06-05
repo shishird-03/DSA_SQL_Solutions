@@ -77,6 +77,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
+| [1544-make-the-string-great](https://github.com/shishird-03/DSA_Solutions/tree/master/1544-make-the-string-great) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shishird-03/DSA_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/shishird-03/DSA_Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -253,6 +254,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | ------- |
 | [0020-valid-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0682-baseball-game) |
+| [1544-make-the-string-great](https://github.com/shishird-03/DSA_Solutions/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
