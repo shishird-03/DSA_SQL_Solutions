@@ -115,6 +115,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0485-max-consecutive-ones](https://github.com/shishird-03/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shishird-03/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/shishird-03/DSA_Solutions/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/shishird-03/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
@@ -161,6 +162,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0258-add-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shishird-03/DSA_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shishird-03/DSA_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -250,6 +252,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
