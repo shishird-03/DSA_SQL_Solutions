@@ -78,6 +78,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shishird-03/DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/shishird-03/DSA_Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shishird-03/DSA_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -260,6 +261,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0682-baseball-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shishird-03/DSA_Solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shishird-03/DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shishird-03/DSA_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/shishird-03/DSA_Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
