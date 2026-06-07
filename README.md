@@ -98,6 +98,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0048-rotate-image](https://github.com/shishird-03/DSA_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shishird-03/DSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shishird-03/DSA_Solutions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/shishird-03/DSA_Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/shishird-03/DSA_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shishird-03/DSA_Solutions/tree/master/0075-sort-colors) |
@@ -229,6 +230,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | ------- |
 | [0015-3sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/shishird-03/DSA_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shishird-03/DSA_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0169-majority-element) |
