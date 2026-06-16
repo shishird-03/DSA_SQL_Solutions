@@ -123,6 +123,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shishird-03/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shishird-03/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/shishird-03/DSA_Solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/shishird-03/DSA_Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -230,6 +231,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shishird-03/DSA_Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/shishird-03/DSA_Solutions/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
