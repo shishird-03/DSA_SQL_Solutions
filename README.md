@@ -104,6 +104,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0066-plus-one](https://github.com/shishird-03/DSA_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shishird-03/DSA_Solutions/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shishird-03/DSA_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shishird-03/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -222,6 +223,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shishird-03/DSA_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shishird-03/DSA_Solutions/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shishird-03/DSA_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0209-minimum-size-subarray-sum) |
