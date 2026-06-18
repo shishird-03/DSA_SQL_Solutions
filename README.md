@@ -131,6 +131,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0682-baseball-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shishird-03/DSA_Solutions/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/shishird-03/DSA_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shishird-03/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -235,6 +236,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0367-valid-perfect-square](https://github.com/shishird-03/DSA_Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shishird-03/DSA_Solutions/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
