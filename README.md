@@ -138,6 +138,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/shishird-03/DSA_Solutions/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/shishird-03/DSA_Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shishird-03/DSA_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shishird-03/DSA_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shishird-03/DSA_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -238,6 +239,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0540-single-element-in-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shishird-03/DSA_Solutions/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shishird-03/DSA_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shishird-03/DSA_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Prefix Sum
 |  |
