@@ -124,6 +124,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0217-contains-duplicate](https://github.com/shishird-03/DSA_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shishird-03/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -239,6 +240,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0162-find-peak-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shishird-03/DSA_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shishird-03/DSA_Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/shishird-03/DSA_Solutions/tree/master/0367-valid-perfect-square) |
@@ -333,6 +335,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0053-maximum-subarray](https://github.com/shishird-03/DSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -404,6 +407,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0054-spiral-matrix](https://github.com/shishird-03/DSA_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shishird-03/DSA_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/shishird-03/DSA_Solutions/tree/master/1672-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
