@@ -53,6 +53,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/shishird-03/DSA_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/shishird-03/DSA_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shishird-03/DSA_Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## String
 |  |
@@ -84,6 +85,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/shishird-03/DSA_Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/shishird-03/DSA_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shishird-03/DSA_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/shishird-03/DSA_Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -369,6 +371,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shishird-03/DSA_Solutions/tree/master/0561-array-partition) |
+| [1903-largest-odd-number-in-string](https://github.com/shishird-03/DSA_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
