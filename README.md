@@ -80,6 +80,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
+| [0796-rotate-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shishird-03/DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -310,6 +311,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0796-rotate-string) |
 ## Queue
 |  |
 | ------- |
