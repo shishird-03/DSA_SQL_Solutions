@@ -4,7 +4,7 @@ public:
   int s1[256]={0};
   int s2[256]={0};
     int n= s.length();
-    for(int i=0;i<n;++i){
+    for(int i=0;i<n;i++){
         if(s1[s[i]]!=s2[t[i]]){
             return false;
         }
