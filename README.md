@@ -29,6 +29,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/shishird-03/DSA_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/shishird-03/DSA_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shishird-03/DSA_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/shishird-03/DSA_Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shishird-03/DSA_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/shishird-03/DSA_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shishird-03/DSA_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -329,6 +331,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shishird-03/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/shishird-03/DSA_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shishird-03/DSA_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/shishird-03/DSA_Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
