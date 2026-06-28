@@ -445,4 +445,8 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | ------- |
 | [0100-same-tree](https://github.com/shishird-03/DSA_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shishird-03/DSA_Solutions/tree/master/0101-symmetric-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/shishird-03/DSA_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
