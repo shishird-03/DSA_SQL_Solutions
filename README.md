@@ -224,6 +224,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shishird-03/DSA_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shishird-03/DSA_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shishird-03/DSA_Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
@@ -460,6 +461,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shishird-03/DSA_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shishird-03/DSA_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shishird-03/DSA_Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
