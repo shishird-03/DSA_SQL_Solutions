@@ -89,6 +89,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/shishird-03/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shishird-03/DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shishird-03/DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -319,6 +320,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0234-palindrome-linked-list](https://github.com/shishird-03/DSA_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shishird-03/DSA_Solutions/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shishird-03/DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shishird-03/DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -396,6 +398,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shishird-03/DSA_Solutions/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shishird-03/DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/shishird-03/DSA_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
