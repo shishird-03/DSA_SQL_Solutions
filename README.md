@@ -86,6 +86,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0383-ransom-note](https://github.com/shishird-03/DSA_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/shishird-03/DSA_Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/shishird-03/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -196,6 +197,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0283-move-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/shishird-03/DSA_Solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/shishird-03/DSA_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shishird-03/DSA_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -230,6 +232,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0118-pascals-triangle](https://github.com/shishird-03/DSA_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shishird-03/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shishird-03/DSA_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/shishird-03/DSA_Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
