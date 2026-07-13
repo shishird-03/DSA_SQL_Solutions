@@ -90,6 +90,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/shishird-03/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/shishird-03/DSA_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shishird-03/DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -337,6 +338,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/shishird-03/DSA_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0796-rotate-string) |
 ## Queue
 |  |
