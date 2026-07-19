@@ -55,6 +55,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0258-add-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shishird-03/DSA_Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/shishird-03/DSA_Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
@@ -512,4 +513,12 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0328-odd-even-linked-list](https://github.com/shishird-03/DSA_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shishird-03/DSA_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shishird-03/DSA_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
