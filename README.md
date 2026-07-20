@@ -29,6 +29,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/shishird-03/DSA_Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shishird-03/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/shishird-03/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shishird-03/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/shishird-03/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -150,6 +151,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shishird-03/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/shishird-03/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shishird-03/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/shishird-03/DSA_Solutions/tree/master/0561-array-partition) |
@@ -336,6 +338,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0225-implement-stack-using-queues](https://github.com/shishird-03/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shishird-03/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shishird-03/DSA_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/shishird-03/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shishird-03/DSA_Solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shishird-03/DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -476,6 +479,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/shishird-03/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shishird-03/DSA_Solutions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shishird-03/DSA_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
