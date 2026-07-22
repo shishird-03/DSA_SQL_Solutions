@@ -163,6 +163,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0739-daily-temperatures](https://github.com/shishird-03/DSA_Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shishird-03/DSA_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shishird-03/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
+| [0907-sum-of-subarray-minimums](https://github.com/shishird-03/DSA_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -248,6 +249,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0152-maximum-product-subarray](https://github.com/shishird-03/DSA_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/shishird-03/DSA_Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
+| [0907-sum-of-subarray-minimums](https://github.com/shishird-03/DSA_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Recursion
 |  |
 | ------- |
@@ -347,6 +349,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0503-next-greater-element-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shishird-03/DSA_Solutions/tree/master/0739-daily-temperatures) |
+| [0907-sum-of-subarray-minimums](https://github.com/shishird-03/DSA_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shishird-03/DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shishird-03/DSA_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -489,6 +492,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0496-next-greater-element-i](https://github.com/shishird-03/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shishird-03/DSA_Solutions/tree/master/0739-daily-temperatures) |
+| [0907-sum-of-subarray-minimums](https://github.com/shishird-03/DSA_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shishird-03/DSA_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
 |  |
