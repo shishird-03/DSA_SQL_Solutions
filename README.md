@@ -122,6 +122,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0033-search-in-rotated-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shishird-03/DSA_Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/shishird-03/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shishird-03/DSA_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shishird-03/DSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shishird-03/DSA_Solutions/tree/master/0054-spiral-matrix) |
@@ -193,6 +194,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0027-remove-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/shishird-03/DSA_Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/shishird-03/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shishird-03/DSA_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shishird-03/DSA_Solutions/tree/master/0125-valid-palindrome) |
@@ -238,6 +240,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shishird-03/DSA_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shishird-03/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shishird-03/DSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shishird-03/DSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shishird-03/DSA_Solutions/tree/master/0118-pascals-triangle) |
@@ -335,6 +338,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shishird-03/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/shishird-03/DSA_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shishird-03/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shishird-03/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -481,6 +485,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shishird-03/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shishird-03/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shishird-03/DSA_Solutions/tree/master/0739-daily-temperatures) |
