@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // ---------- Minimum ----------
+//Minimum
     vector<int> findNSE(vector<int>& arr) {
         int n = arr.size();
         vector<int> nse(n);
@@ -49,7 +49,7 @@ public:
         return total;
     }
 
-    // ---------- Maximum ----------
+//Maximum
     vector<int> findNGE(vector<int>& arr){
 
         int n=arr.size();
