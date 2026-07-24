@@ -92,6 +92,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shishird-03/DSA_Solutions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/shishird-03/DSA_Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
@@ -348,6 +349,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0225-implement-stack-using-queues](https://github.com/shishird-03/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shishird-03/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shishird-03/DSA_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shishird-03/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0682-baseball-game) |
@@ -437,6 +439,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/shishird-03/DSA_Solutions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/shishird-03/DSA_Solutions/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shishird-03/DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -494,6 +497,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shishird-03/DSA_Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shishird-03/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shishird-03/DSA_Solutions/tree/master/0739-daily-temperatures) |
