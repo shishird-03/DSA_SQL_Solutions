@@ -553,4 +553,16 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0292-nim-game) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shishird-03/DSA_Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shishird-03/DSA_Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shishird-03/DSA_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
