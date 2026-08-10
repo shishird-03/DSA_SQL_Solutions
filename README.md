@@ -565,4 +565,8 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shishird-03/DSA_Solutions/tree/master/0204-count-primes) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shishird-03/DSA_Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
