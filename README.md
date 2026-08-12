@@ -176,6 +176,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [1046-last-stone-weight](https://github.com/shishird-03/DSA_Solutions/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/shishird-03/DSA_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shishird-03/DSA_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shishird-03/DSA_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shishird-03/DSA_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shishird-03/DSA_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -311,6 +312,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0209-minimum-size-subarray-sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shishird-03/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shishird-03/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shishird-03/DSA_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
@@ -402,6 +404,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0643-maximum-average-subarray-i](https://github.com/shishird-03/DSA_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/shishird-03/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shishird-03/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shishird-03/DSA_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Enumeration
 |  |
 | ------- |
