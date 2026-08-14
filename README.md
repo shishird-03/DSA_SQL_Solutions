@@ -24,6 +24,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/shishird-03/DSA_Solutions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/shishird-03/DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shishird-03/DSA_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
@@ -154,6 +155,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0240-search-a-2d-matrix-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/shishird-03/DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/shishird-03/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shishird-03/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -329,6 +331,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0229-majority-element-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/shishird-03/DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/shishird-03/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/shishird-03/DSA_Solutions/tree/master/0561-array-partition) |
@@ -389,6 +392,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | ------- |
 | [0169-majority-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shishird-03/DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shishird-03/DSA_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shishird-03/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -418,11 +422,13 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0169-majority-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shishird-03/DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shishird-03/DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shishird-03/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shishird-03/DSA_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
@@ -435,6 +441,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shishird-03/DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shishird-03/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
@@ -493,6 +500,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shishird-03/DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
