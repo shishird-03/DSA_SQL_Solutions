@@ -34,6 +34,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0560-subarray-sum-equals-k](https://github.com/shishird-03/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/shishird-03/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shishird-03/DSA_SQL_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/shishird-03/DSA_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/shishird-03/DSA_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shishird-03/DSA_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -173,6 +174,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shishird-03/DSA_SQL_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shishird-03/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shishird-03/DSA_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/shishird-03/DSA_Solutions/tree/master/1046-last-stone-weight) |
@@ -396,6 +398,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0383-ransom-note](https://github.com/shishird-03/DSA_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shishird-03/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shishird-03/DSA_SQL_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/shishird-03/DSA_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shishird-03/DSA_Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/shishird-03/DSA_Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -407,6 +410,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0219-contains-duplicate-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shishird-03/DSA_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/shishird-03/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/shishird-03/DSA_SQL_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shishird-03/DSA_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shishird-03/DSA_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Enumeration
