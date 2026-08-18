@@ -63,6 +63,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0292-nim-game](https://github.com/shishird-03/DSA_Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shishird-03/DSA_Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/shishird-03/DSA_Solutions/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shishird-03/DSA_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
@@ -99,6 +100,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shishird-03/DSA_Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shishird-03/DSA_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/shishird-03/DSA_Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
@@ -353,6 +355,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0231-power-of-two](https://github.com/shishird-03/DSA_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shishird-03/DSA_Solutions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shishird-03/DSA_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1720-decode-xored-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1720-decode-xored-array) |
 ## Stack
 |  |
