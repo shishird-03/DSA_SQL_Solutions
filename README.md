@@ -556,6 +556,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [1527-patients-with-a-condition](https://github.com/shishird-03/DSA_Solutions/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/shishird-03/DSA_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shishird-03/DSA_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/shishird-03/DSA_Solutions/tree/master/1873-calculate-special-bonus) |
 ## Linked List
 |  |
 | ------- |
