@@ -551,6 +551,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0577-employee-bonus](https://github.com/shishird-03/DSA_Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/shishird-03/DSA_Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/shishird-03/DSA_Solutions/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0619-biggest-single-number) |
 | [1084-sales-analysis-iii](https://github.com/shishird-03/DSA_Solutions/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/shishird-03/DSA_Solutions/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/shishird-03/DSA_Solutions/tree/master/1527-patients-with-a-condition) |
