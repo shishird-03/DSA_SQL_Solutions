@@ -558,6 +558,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [1667-fix-names-in-a-table](https://github.com/shishird-03/DSA_Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/shishird-03/DSA_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shishird-03/DSA_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/shishird-03/DSA_Solutions/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/shishird-03/DSA_Solutions/tree/master/1873-calculate-special-bonus) |
 ## Linked List
 |  |
