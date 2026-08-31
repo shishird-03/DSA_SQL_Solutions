@@ -123,6 +123,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shishird-03/DSA_Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shishird-03/DSA_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0018-4sum) |
@@ -204,6 +205,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shishird-03/DSA_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/shishird-03/DSA_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shishird-03/DSA_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -467,6 +469,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shishird-03/DSA_Solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/shishird-03/DSA_Solutions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/shishird-03/DSA_Solutions/tree/master/0561-array-partition) |
