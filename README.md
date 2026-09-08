@@ -108,6 +108,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0434-number-of-segments-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shishird-03/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/shishird-03/DSA_Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/shishird-03/DSA_Solutions/tree/master/0482-license-key-formatting) |
 | [0796-rotate-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shishird-03/DSA_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/1021-remove-outermost-parentheses) |
